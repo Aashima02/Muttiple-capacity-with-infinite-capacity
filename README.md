@@ -23,7 +23,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ## Program:
 ```python
 
-DEVELOPED BY : MONISHA T
+DEVELOPED BY : Aashima Nazreen Sayeed S
 REGISTER NO : 21222124029
 
 import math
